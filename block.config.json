@@ -1,0 +1,12 @@
+{
+  "name": "testPackage",
+  "type": "package",
+  "blockId": "1ifToCMRSoZnjrk4rrCfE",
+  "source": {
+    "https": "https://github.com/Digambaran/testPackage",
+    "ssh": "git@github.com:Digambaran/testPackage.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ]
+}
